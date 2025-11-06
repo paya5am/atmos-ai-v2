@@ -81,11 +81,6 @@ Ensure you have the following installed:
 - TensorFlow or PyTorch (depending on your implementation)  
 - Common Python libraries: `pandas`, `numpy`, `geopandas`, `matplotlib`
 
-### TO RUN
-  python train_model.py
-   ( train the model first according to required level of sensitivity )
-   ( or use the existing model in the repo )
-  python main.py
 
 ### ACKNOWLEDGMENTS
 
@@ -105,4 +100,8 @@ cd atmos-ai
 # Install dependencies
 pip install -r requirements.txt
 
-#
+### TO RUN
+  python train_model.py
+   #( train the model first according to required level of sensitivity )
+   #( or use the existing model in the repo )
+  python main.py
