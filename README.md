@@ -92,13 +92,10 @@ Ensure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/atmos-ai.git
+git clone https://github.com/paya5am/atmos-ai-v2.git
 
 # Navigate into the folder
-cd atmos-ai
-
-# Install dependencies
-pip install -r requirements.txt
+cd atmos-ai-v2
 
 ### TO RUN
   python train_model.py
